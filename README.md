@@ -1,5 +1,7 @@
 # Copper
 
+![Screenshot Of Example App](https://github.com/FaysouRGB/copper/blob/main/avant_apres.png)
+
 Meet Copper, a fast and easy to use Rust database library,
 along with a SQL-like query language.
 
